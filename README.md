@@ -5,7 +5,7 @@
 
 
 ## Welcome to the Tech Writer's Tribe - DITA Workshop GitHub Repository!
-The following table describes each file in this repository. Click on the hyperlinks to view/ download the file.
+The following table describes each file in this repository. Click on the hyperlinks to view/download the file.
 
 
 |File | Description |
