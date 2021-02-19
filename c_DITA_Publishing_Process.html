@@ -37,7 +37,7 @@
       <div id="wh-content">
       
       <section class="concept" id="D9120" lang="en" xml:lang="en">
-         <h2 class="section1-title" id="D9120____TT">The DITA publishing process</h2>
+         <h2 class="section2-title" id="D9120____TT">The DITA publishing process</h2>
          <p class="shortdesc">XSL-T and XSL-FO are the technologies that underpin most DITA
             	 publishing tools. 
             </p>
@@ -76,59 +76,9 @@
             <figure class="fig" id="D9120__fig_xsl_process_schematic">
                <figcaption class="fig-title">Overview of typical DITA transformation to PDF</figcaption>
                <div class="fig-contents">
-                  <div class="image-container" style="text-align: left;"><img alt="Schematic showing processes involved in transforming DITA to PDF" class="image" height="135" id="D9120__image_6124035E932D46159B8ED982E4BAE0FB" src="img/xsl_in_publishing.svg" width="429" /></div>
+                  <div class="image-container" style="text-align: left;"><img alt="Schematic showing processes involved in transforming DITA to PDF" class="image" height="135" id="D9120__image_6124035E932D46159B8ED982E4BAE0FB" src="img/xsl_in_publishing-3.svg" width="429" /></div>
                </div>
             </figure>
-            <section class="section" id="D9120__section_1E08C6A084AB42A29F8F7759FF2A7728"> 
-               		
-               <h3 class="section-title">Rationale</h3> 
-               		
-               <blockquote class="lq">
-                  <div> 
-                     		  
-                     <div class="p">It's a series of pipeline steps, just like when you publish to HTML.
-                        			 For PDF2 in particular, the steps are: 
-                        		  </div> 
-                     		  
-                     <ol class="ol" id="D9120__ol_A35AC2A96DF241D59D6174A860DFD589">
-                        <li class="li" id="D9120__li_2D3DA4C02FBA4A8DBBEC9AD0BABFBE33">DITA-OT preprocess. All
-                           				outputs do this. This includes conref resolution, mapref merging, pulling text
-                           				in xrefs and other things that you usually want. 
-                           			 </li>
-                        <li class="li" id="D9120__li_9EB6A150A6EB4DDBBD2CD892F76E47EE">Merge DITA topics. PDF2
-                           				takes the input map and produces a single large XML file containing all of the
-                           				DITA topics, in the desired output order. 
-                           			 </li>
-                        <li class="li" id="D9120__li_198596E138FE4AFDA31158AA41EA235B">DITA to XSLFO. This is
-                           				the part that most of the PDF2 plugin XSLT code is doing. XSLFO is a
-                           				page-description language expressed in XML. Sometimes XSLFO is just called XSL,
-                           				in case you are looking it up online. 
-                           			 </li>
-                        <li class="li" id="D9120__li_BF39B8C7273D49B98CB36DEF7A4F726A">Font munging. Only PDF2
-                           				does this. The input XSLFO is processed into XSLFO that includes font mapping
-                           				information. 
-                           			 </li>
-                        <li class="li" id="D9120__li_B6DE9AE680C542098EC629A9CA205362">Index munging. Only PDF2
-                           				does this. The index markers in the XSLFO are processed into slightly different
-                           				XSLFO. 
-                           			 </li>
-                        <li class="li" id="D9120__li_27DDBE13E9314507B65B55677BDE6A19">PDF rendering. An
-                           				external program renders the XSLFO into PDF. RenderX XEP is one program which
-                           				does this. Apache FOP is another which you could use. Antenna House sells one
-                           				too. 
-                           			 </li>
-                     </ol> 
-                     		  
-                     <div class="p">So the PDF production could be seen as a post-processing stage. You
-                        			 don't have to pay money if the free renderer (FOP) produces good-enough output.
-                        			 XSLFO is standardized enough that you should be able to slot any XSLFO
-                        			 processor into that part of the pipeline. 
-                        		  </div> 
-                     		
-                     <p class="lq-reftitle"><a href="http://tech.groups.yahoo.com/group/dita-users/message/12911" target="_blank">Deborah Pickett, Yahoo! DITA Users Group</a></p>
-                  </div>
-               </blockquote> 
-               	 </section>
          </div>
       </section>
    </div>

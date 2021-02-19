@@ -524,165 +524,164 @@ return this;
 })(jQuery); 
 var wh = (function () {
 var toc_entries = [
-["\n         <span class=\"webhelp-toc-chapter-entry\">Introduction to DITA</span>\n      ","c_Introduction_to_DITA.html#D1763",[
-["\n            <span class=\"webhelp-toc-section1-entry\">DITA features</span>\n         ","c_DITA_Features.html#D1966",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Information typing</span>\n         ","c_Information_Types.html#concept_B83BDD2510714DC2A3B4B8959F2C628B",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Topic-based authoring</span>\n         ","c_Topic_Based_Authoring.html#D2064",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Modularity</span>\n         ","c_Modularity.html#Dc_Modularity",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Minimalism</span>\n         ","c_Minimalism.html#concept_4D6F168A500A4E2CAAD3510DC906FC06",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Structured authoring</span>\n         ","c_What_is_Structured_Authoring.html#concept_3EC0486995EC49A88542A99EFCB313D0",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">The separation of content and form</span>\n         ","c_Introduction_to_the_Separation_of_Content.html#D2209",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Where DITA fits...</span>\n         ","c_Where_DITA_Fits_In.html#D1835",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Inheritance</span>\n         ","c_Inheritance.html#D1799",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Conditions, filtering, variants and ditaval</span>\n         ","c_Conditions_Filtering_Variants_and_ditaval.html#concept_62DC88738DF34255844A153A04EA1981",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Techniques to learn</span>\n         ","c_Techniques.html#Dc_Techniques",null]
+["\n         <span class=\"webhelp-toc-section1-entry\">Introduction to DITA</span>\n      ","c_Introduction_to_DITA.html#D1763",[
+["\n            <span class=\"webhelp-toc-section2-entry\">DITA features</span>\n         ","c_DITA_Features.html#D1966",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Information typing</span>\n         ","c_Information_Types.html#concept_B83BDD2510714DC2A3B4B8959F2C628B",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Topic-based authoring</span>\n         ","c_Topic_Based_Authoring.html#D2064",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Modularity</span>\n         ","c_Modularity.html#Dc_Modularity",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Minimalism</span>\n         ","c_Minimalism.html#concept_4D6F168A500A4E2CAAD3510DC906FC06",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Structured authoring</span>\n         ","c_What_is_Structured_Authoring.html#concept_3EC0486995EC49A88542A99EFCB313D0",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">The separation of content and form</span>\n         ","c_Introduction_to_the_Separation_of_Content.html#D2209",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Where DITA fits...</span>\n         ","c_Where_DITA_Fits_In.html#D1835",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Inheritance</span>\n         ","c_Inheritance.html#D1799",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Conditions, filtering, variants and ditaval</span>\n         ","c_Conditions_Filtering_Variants_and_ditaval.html#concept_62DC88738DF34255844A153A04EA1981",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Techniques to learn</span>\n         ","c_Techniques.html#Dc_Techniques",null]
 ]],
-["\n         <span class=\"webhelp-toc-chapter-entry\">Information types and topics</span>\n      ","c_Topics_and_Information_Types.html#concept_B56C7FF5E35949DEBBA2C6A43C09E956",[
-["\n            <span class=\"webhelp-toc-section1-entry\">Content models and information types</span>\n         ","c_Content_Models_and_Info_Types.html#Dc_Content_Models_and_Info_Types",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Information types</span>\n         ","c_Information_Types_Explained.html#D1639",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Concept</span>\n            ","c_Concept.html#D2078",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Task</span>\n            ","c_Task.html#D2079",[
-["\n                  <span class=\"webhelp-toc-section3-entry\">General Task</span>\n               ","c_General_Tasks.html#concept_411EB14DCE0C400E8C21C1A15E5B0926",null]
+["\n         <span class=\"webhelp-toc-section1-entry\">Information types and topics</span>\n      ","c_Topics_and_Information_Types.html#concept_B56C7FF5E35949DEBBA2C6A43C09E956",[
+["\n            <span class=\"webhelp-toc-section2-entry\">Content models and information types</span>\n         ","c_Content_Models_and_Info_Types.html#Dc_Content_Models_and_Info_Types",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Information types</span>\n         ","c_Information_Types_Explained.html#D1639",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Concept</span>\n            ","c_Concept.html#D2078",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Task</span>\n            ","c_Task.html#D2079",[
+["\n                  <span class=\"webhelp-toc-section4-entry\">General Task</span>\n               ","c_General_Tasks.html#concept_411EB14DCE0C400E8C21C1A15E5B0926",null]
 ]],
-["\n               <span class=\"webhelp-toc-section2-entry\">Reference</span>\n            ","c_Reference.html#D2080",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Topic (proto information type)</span>\n            ","c_Topic_Proto.html#concept_2CCD8FC2365240F08FE6DD53E871943B",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Identifying the information type</span>\n            ","c_Identifying_the_Information_Type.html#D1986",null]
+["\n               <span class=\"webhelp-toc-section3-entry\">Reference</span>\n            ","c_Reference.html#D2080",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Topic (proto information type)</span>\n            ","c_Topic_Proto.html#concept_2CCD8FC2365240F08FE6DD53E871943B",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Identifying the information type</span>\n            ","c_Identifying_the_Information_Type.html#D1986",null]
 ]]
 ]],
-["\n         <span class=\"webhelp-toc-chapter-entry\">DITA map files</span>\n      ","c_DITA_Map_Files.html#concept_9489AC2C522049FAA770DA63F54060F1",[
-["\n            <span class=\"webhelp-toc-section1-entry\">Purpose of ditamap files</span>\n         ","c_Working_with_Map_Files.html#D1818",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Publication and collection defined</span>\n            ","c_Publication_Defined.html#D9363",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Anatomy of a ditamap file</span>\n            ","c_Anatomy_of_ditamap.html#D2622",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Generated relationship links</span>\n            ","c_Generated_Relationship_Links.html#D2624",null]
+["\n         <span class=\"webhelp-toc-section1-entry\">DITA map files</span>\n      ","c_DITA_Map_Files.html#concept_9489AC2C522049FAA770DA63F54060F1",[
+["\n            <span class=\"webhelp-toc-section2-entry\">Purpose of ditamap files</span>\n         ","c_Working_with_Map_Files.html#D1818",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Publication and collection defined</span>\n            ","c_Publication_Defined.html#D9363",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Anatomy of a ditamap file</span>\n            ","c_Anatomy_of_ditamap.html#D2622",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Generated relationship links</span>\n            ","c_Generated_Relationship_Links.html#D2624",null]
 ]],
-["\n            <span class=\"webhelp-toc-section1-entry\">Topic manifest</span>\n         ","c_Topic_Manifest.html#concept_75DDC6623DAF476089F37844B51C0293",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Topic hierarchy</span>\n         ","c_Topic_Based_Architecture_Needs_TOC.html#D2619",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Designing a topic hierarchy</span>\n            ","c_Structuring_a_TOC.html#D2368",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Heading levels and ditamaps</span>\n            ","c_Output_Styling.html#D2834",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Controlling the top node (default topic)</span>\n            ","c_Controlling_Default_Page.html#Dc_Controlling_Default_Page",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Excluding topics from the output TOC</span>\n            ","c_Excluding_Map_Topics_from_TOC.html#concept_CB9DCCEEE29D42FEA8E053DB8A0D88E2",null]
+["\n            <span class=\"webhelp-toc-section2-entry\">Topic manifest</span>\n         ","c_Topic_Manifest.html#concept_75DDC6623DAF476089F37844B51C0293",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Topic hierarchy</span>\n         ","c_Topic_Based_Architecture_Needs_TOC.html#D2619",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Designing a topic hierarchy</span>\n            ","c_Structuring_a_TOC.html#D2368",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Heading levels and ditamaps</span>\n            ","c_Output_Styling.html#D2834",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Controlling the top node (default topic)</span>\n            ","c_Controlling_Default_Page.html#Dc_Controlling_Default_Page",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Excluding topics from the output TOC</span>\n            ","c_Excluding_Map_Topics_from_TOC.html#concept_CB9DCCEEE29D42FEA8E053DB8A0D88E2",null]
 ]],
-["\n            <span class=\"webhelp-toc-section1-entry\">Relationship tables</span>\n         ","c_Understanding_Relationship_Tables.html#D2068",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Types of relationship tables</span>\n            ","c_Types_of_Relationship_Tables.html#concept_25F815C1FFB641608A6175A42B2639E9",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Labels for reltable related topic links</span>\n            ","c_Labels_for_reltable_Links.html#D9191",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Link text for reltable related topic links</span>\n            ","c_Link_Text_for_Relationship_Tables.html#D2816",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Storing relationship tables in separate, embedded ditamaps</span>\n            ","c_Storing_Relationship_Table_Maps_Separately.html#D9381",null]
+["\n            <span class=\"webhelp-toc-section2-entry\">Relationship tables</span>\n         ","c_Understanding_Relationship_Tables.html#D2068",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Types of relationship tables</span>\n            ","c_Types_of_Relationship_Tables.html#concept_25F815C1FFB641608A6175A42B2639E9",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Labels for reltable related topic links</span>\n            ","c_Labels_for_reltable_Links.html#D9191",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Link text for reltable related topic links</span>\n            ","c_Link_Text_for_Relationship_Tables.html#D2816",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Storing relationship tables in separate, embedded ditamaps</span>\n            ","c_Storing_Relationship_Table_Maps_Separately.html#D9381",null]
 ]],
-["\n            <span class=\"webhelp-toc-section1-entry\">Linking relationships</span>\n         ","c_Linking_Relationships.html#concept_BCA83D783CB24AAE996C6948AA0E88D9",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Hierarchical linking relationships</span>\n            ","c_Hierarchical_Linking_Relationships.html#concept_0CB5962F42AA4B60AA77CC9B4708B493",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Collection types</span>\n            ","c_Collection_Types.html#D9214",[
-["\n                  <span class=\"webhelp-toc-section3-entry\">Collection type examples</span>\n               ","c_Collection_Type_Examples.html#D2633",[
-["\n                     <span class=\"webhelp-toc-section4-entry\">Collection type example: family</span>\n                  ","c_Collection_Type_Example_Family.html#D2634",null],
-["\n                     <span class=\"webhelp-toc-section4-entry\">Collection type example: unordered</span>\n                  ","c_Collection_Type_Example_Unordered.html#D2638",null],
-["\n                     <span class=\"webhelp-toc-section4-entry\">Collection type example: sequence</span>\n                  ","c_Collection_Type_Example_Sequence.html#D2636",null],
-["\n                     <span class=\"webhelp-toc-section4-entry\">Collection type example: choice</span>\n                  ","c_Collection_Type_Example_Choice.html#D2640",null]
+["\n            <span class=\"webhelp-toc-section2-entry\">Linking relationships</span>\n         ","c_Linking_Relationships.html#concept_BCA83D783CB24AAE996C6948AA0E88D9",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Hierarchical linking relationships</span>\n            ","c_Hierarchical_Linking_Relationships.html#concept_0CB5962F42AA4B60AA77CC9B4708B493",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Collection types</span>\n            ","c_Collection_Types.html#D9214",[
+["\n                  <span class=\"webhelp-toc-section4-entry\">Collection type examples</span>\n               ","c_Collection_Type_Examples.html#D2633",[
+["\n                     <span class=\"webhelp-toc-section5-entry\">Collection type example: family</span>\n                  ","c_Collection_Type_Example_Family.html#D2634",null],
+["\n                     <span class=\"webhelp-toc-section5-entry\">Collection type example: unordered</span>\n                  ","c_Collection_Type_Example_Unordered.html#D2638",null],
+["\n                     <span class=\"webhelp-toc-section5-entry\">Collection type example: sequence</span>\n                  ","c_Collection_Type_Example_Sequence.html#D2636",null],
+["\n                     <span class=\"webhelp-toc-section5-entry\">Collection type example: choice</span>\n                  ","c_Collection_Type_Example_Choice.html#D2640",null]
 ]]
 ]]
 ]],
-["\n            <span class=\"webhelp-toc-section1-entry\">Embedded (or nested) ditamaps</span>\n         ","c_Embedded_Maps.html#D2069",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">The bookmap feature</span>\n         ","c_bookmap_application.html#D2067",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Sample bookmap file</span>\n            ","c_bookmap_example.html#D2682",null]
+["\n            <span class=\"webhelp-toc-section2-entry\">Embedded (or nested) ditamaps</span>\n         ","c_Embedded_Maps.html#D2069",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">The bookmap feature</span>\n         ","c_bookmap_application.html#D2067",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Sample bookmap file</span>\n            ","c_bookmap_example.html#D2682",null]
 ]]
 ]],
-["\n         <span class=\"webhelp-toc-chapter-entry\">Syntax and mark-up</span>\n      ","c_Syntax_and_Markup.html#concept_C2D35D1DA62446AE842ED5205A7596E1",[
-["\n            <span class=\"webhelp-toc-section1-entry\">Organisation of DITA elements</span>\n         ","c_Organisation_of_DITA_Elements.html#D1980",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Block and phrase elements</span>\n            ","c_Phrases_and_Blocks.html#concept_F8F837BABC264A4482883B4D707557B4",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Topic elements</span>\n            ","c_Topic_Elements.html#D2469",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Map elements</span>\n            ","c_Map_Elements.html#concept_8FEC51A86D17452EADDDCB301E91BE16",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Body elements</span>\n            ","c_Body_Elements.html#D2470",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Prolog elements</span>\n            ","c_Prolog_Elements.html#D2468",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Domain elements</span>\n            ","c_Domain_Elements.html#D1989",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Specialisation elements</span>\n            ","c_Specialisation_Elements.html#concept_25BED1F979EF41FC8B53C613B06D07F5",null]
+["\n         <span class=\"webhelp-toc-section1-entry\">Syntax and mark-up</span>\n      ","c_Syntax_and_Markup.html#concept_C2D35D1DA62446AE842ED5205A7596E1",[
+["\n            <span class=\"webhelp-toc-section2-entry\">Organisation of DITA elements</span>\n         ","c_Organisation_of_DITA_Elements.html#D1980",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Block and phrase elements</span>\n            ","c_Phrases_and_Blocks.html#concept_F8F837BABC264A4482883B4D707557B4",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Topic elements</span>\n            ","c_Topic_Elements.html#D2469",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Map elements</span>\n            ","c_Map_Elements.html#concept_8FEC51A86D17452EADDDCB301E91BE16",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Body elements</span>\n            ","c_Body_Elements.html#D2470",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Prolog elements</span>\n            ","c_Prolog_Elements.html#D2468",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Domain elements</span>\n            ","c_Domain_Elements.html#D1989",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Specialisation elements</span>\n            ","c_Specialisation_Elements.html#concept_25BED1F979EF41FC8B53C613B06D07F5",null]
 ]],
-["\n            <span class=\"webhelp-toc-section1-entry\">Element domains</span>\n         ","c_List_of_Domains.html#D2995",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Programming domain</span>\n            ","c_Programming_Domain.html#concept_7EFF0744D5144C8180FD9433AE4BD361",[
-["\n                  <span class=\"webhelp-toc-section3-entry\">Programming domain elements</span>\n               ","c_Programming_Domain.html#reference_6FB31F18C6F749D78832DB80AA363731",null]
+["\n            <span class=\"webhelp-toc-section2-entry\">Element domains</span>\n         ","c_List_of_Domains.html#D2995",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Programming domain</span>\n            ","c_Programming_Domain.html#concept_7EFF0744D5144C8180FD9433AE4BD361",[
+["\n                  <span class=\"webhelp-toc-section4-entry\">Programming domain elements</span>\n               ","c_Programming_Domain.html#reference_6FB31F18C6F749D78832DB80AA363731",null]
 ]],
-["\n               <span class=\"webhelp-toc-section2-entry\">User interface domain</span>\n            ","c_User_Interface_Domain.html#concept_5D5C4AC88F44413C9B57B95C18B04FB1",[
-["\n                  <span class=\"webhelp-toc-section3-entry\">User interface domain elements</span>\n               ","c_User_Interface_Domain.html#reference_6FB31F18C6F749D78832DB80AA363731-2",null]
+["\n               <span class=\"webhelp-toc-section3-entry\">User interface domain</span>\n            ","c_User_Interface_Domain.html#concept_5D5C4AC88F44413C9B57B95C18B04FB1",[
+["\n                  <span class=\"webhelp-toc-section4-entry\">User interface domain elements</span>\n               ","c_User_Interface_Domain.html#reference_6FB31F18C6F749D78832DB80AA363731-2",null]
 ]],
-["\n               <span class=\"webhelp-toc-section2-entry\">Software domain</span>\n            ","c_Software_Domain.html#concept_2EC329120E184EF98A46651F0C1D3590",[
-["\n                  <span class=\"webhelp-toc-section3-entry\">Software domain elements</span>\n               ","c_Software_Domain.html#reference_6FB31F18C6F749D78832DB80AA363731-3",null]
+["\n               <span class=\"webhelp-toc-section3-entry\">Software domain</span>\n            ","c_Software_Domain.html#concept_2EC329120E184EF98A46651F0C1D3590",[
+["\n                  <span class=\"webhelp-toc-section4-entry\">Software domain elements</span>\n               ","c_Software_Domain.html#reference_6FB31F18C6F749D78832DB80AA363731-3",null]
 ]],
-["\n               <span class=\"webhelp-toc-section2-entry\">Utilities domain</span>\n            ","c_Utilities_Domain.html#concept_0281586C69A74F0FAA1CD3481FCE5F14",[
-["\n                  <span class=\"webhelp-toc-section3-entry\">Utilities domain elements</span>\n               ","c_Utilities_Domain.html#reference_6FB31F18C6F749D78832DB80AA363731-4",null]
+["\n               <span class=\"webhelp-toc-section3-entry\">Utilities domain</span>\n            ","c_Utilities_Domain.html#concept_0281586C69A74F0FAA1CD3481FCE5F14",[
+["\n                  <span class=\"webhelp-toc-section4-entry\">Utilities domain elements</span>\n               ","c_Utilities_Domain.html#reference_6FB31F18C6F749D78832DB80AA363731-4",null]
 ]],
-["\n               <span class=\"webhelp-toc-section2-entry\">Metadata domain</span>\n            ","c_Other_Domains.html#concept_016C23D8A0184B85A9913BEA5215E21C",[
-["\n                  <span class=\"webhelp-toc-section3-entry\">Metadata domain elements</span>\n               ","c_Other_Domains.html#reference_6FB31F18C6F749D78832DB80AA363731-5",null]
+["\n               <span class=\"webhelp-toc-section3-entry\">Metadata domain</span>\n            ","c_Other_Domains.html#concept_016C23D8A0184B85A9913BEA5215E21C",[
+["\n                  <span class=\"webhelp-toc-section4-entry\">Metadata domain elements</span>\n               ","c_Other_Domains.html#reference_6FB31F18C6F749D78832DB80AA363731-5",null]
 ]],
-["\n               <span class=\"webhelp-toc-section2-entry\">Typographic (highlighting) domain</span>\n            ","c_Typographical_Domain.html#D3783",null]
+["\n               <span class=\"webhelp-toc-section3-entry\">Typographic (highlighting) domain</span>\n            ","c_Typographical_Domain.html#D3783",null]
 ]],
-["\n            <span class=\"webhelp-toc-section1-entry\">Short descriptions</span>\n         ","c_Short_Descriptions.html#concept_0AB1120C7BD84716978E34C3ED98A611",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Lists</span>\n         ","c_Lists.html#concept_54C988164E0541BB8CB1E9AB000C5287",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Types of lists</span>\n            ","c_Choosing_a_List_Type.html#concept_154220B965BB4734A1029A994B5DC554",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Definition lists versus tables</span>\n            ","c_Definition_Lists_vs_Tables.html#concept_A52FECBCB9924DC7B4F26FA7C097B888",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Lists within paragraphs</span>\n            ","c_Lists_within_Paragraphs.html#D3781",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Controlling number (enumeration) type</span>\n            ","c_Controlling_Enumeration_Type.html#D9196",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Listing user interface buttons</span>\n            ","c_Limiting_User_Interface_Buttons.html#D9150",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Parameter lists</span>\n            ","c_Parameter_Lists.html#concept_89CD6D153FD84BBA88C394DA0715DC87",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Choice lists</span>\n            ","c_Choice_Lists.html#concept_B3C37DED7AF14E05B86CBE49DAC86C14",null]
+["\n            <span class=\"webhelp-toc-section2-entry\">Short descriptions</span>\n         ","c_Short_Descriptions.html#concept_0AB1120C7BD84716978E34C3ED98A611",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Lists</span>\n         ","c_Lists.html#concept_54C988164E0541BB8CB1E9AB000C5287",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Types of lists</span>\n            ","c_Choosing_a_List_Type.html#concept_154220B965BB4734A1029A994B5DC554",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Definition lists versus tables</span>\n            ","c_Definition_Lists_vs_Tables.html#concept_A52FECBCB9924DC7B4F26FA7C097B888",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Lists within paragraphs</span>\n            ","c_Lists_within_Paragraphs.html#D3781",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Controlling number (enumeration) type</span>\n            ","c_Controlling_Enumeration_Type.html#D9196",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Listing user interface buttons</span>\n            ","c_Limiting_User_Interface_Buttons.html#D9150",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Parameter lists</span>\n            ","c_Parameter_Lists.html#concept_89CD6D153FD84BBA88C394DA0715DC87",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Choice lists</span>\n            ","c_Choice_Lists.html#concept_B3C37DED7AF14E05B86CBE49DAC86C14",null]
 ]],
-["\n            <span class=\"webhelp-toc-section1-entry\">Paragraphs</span>\n         ","c_Paragraphs.html#concept_E497B4D555794C5CB0EBEF9D2B66753B",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Procedures and steps</span>\n         ","c_Procedures.html#concept_6F8F642B68DD45FCBE9DF0F97E767C2A",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Semantics in steps</span>\n            ","c_Semantics_in_Steps.html#Dc_Semantics_in_Steps",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Separating procedures into granular steps</span>\n            ","c_Separating_Procedures_Into_Granular_Steps.html#D9079",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Restricting tasks to one procedure only</span>\n            ","c_Two_Tasks_on_One_Task_Topic.html#D5031",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">The prereq element</span>\n            ","c_Sentence_Syntax_in_prereq.html#D4704",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Substeps within steps</span>\n            ","c_Sub_Steps.html#D9242",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Single step procedure</span>\n            ","c_Single_Step_Procedure.html#D9165",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">The command element</span>\n            ","c_The_command_Element.html#concept_0A6D0A2A3523459F9FA9D5FF1E6757F0",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Required and optional steps</span>\n            ","c_Required_and_Optional_Steps.html#concept_2686B9CDFBD64B64A3B3422B6BDA4F48",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Complex nested tasks</span>\n            ","c_Complex_Nested_Tasks.html#D9095",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Notes and extra information in a step</span>\n            ","c_Notes_in_Steps.html#D5112",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Images within steps</span>\n            ","c_Images_within_Steps.html#D9193",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Choice tables</span>\n            ","c_Choice_Tables.html#D9081",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Non-sequential procedural steps</span>\n            ","c_Steps_and_Steps_Informal.html#D9164",null]
+["\n            <span class=\"webhelp-toc-section2-entry\">Paragraphs</span>\n         ","c_Paragraphs.html#concept_E497B4D555794C5CB0EBEF9D2B66753B",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Procedures and steps</span>\n         ","c_Procedures.html#concept_6F8F642B68DD45FCBE9DF0F97E767C2A",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Semantics in steps</span>\n            ","c_Semantics_in_Steps.html#Dc_Semantics_in_Steps",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Separating procedures into granular steps</span>\n            ","c_Separating_Procedures_Into_Granular_Steps.html#D9079",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Restricting tasks to one procedure only</span>\n            ","c_Two_Tasks_on_One_Task_Topic.html#D5031",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">The prereq element</span>\n            ","c_Sentence_Syntax_in_prereq.html#D4704",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Substeps within steps</span>\n            ","c_Sub_Steps.html#D9242",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Single step procedure</span>\n            ","c_Single_Step_Procedure.html#D9165",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">The command element</span>\n            ","c_The_command_Element.html#concept_0A6D0A2A3523459F9FA9D5FF1E6757F0",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Required and optional steps</span>\n            ","c_Required_and_Optional_Steps.html#concept_2686B9CDFBD64B64A3B3422B6BDA4F48",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Complex nested tasks</span>\n            ","c_Complex_Nested_Tasks.html#D9095",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Notes and extra information in a step</span>\n            ","c_Notes_in_Steps.html#D5112",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Images within steps</span>\n            ","c_Images_within_Steps.html#D9193",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Choice tables</span>\n            ","c_Choice_Tables.html#D9081",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Non-sequential procedural steps</span>\n            ","c_Steps_and_Steps_Informal.html#D9164",null]
 ]],
-["\n            <span class=\"webhelp-toc-section1-entry\">Tables</span>\n         ","c_Tables.html#concept_6884C7A0BBBF4792B2CF765F85CFB261",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Types of tables</span>\n            ","c_Types_of_Tables.html#concept_004AF201DB18436098E65BA6670EA8CA",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Working with tables</span>\n            ","c_Working_with_Tables.html#D9212",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Column and row headers</span>\n            ","c_Row_Headers.html#concept_568DD52E5D4D4879ADD0AA7C9D02617D",null]
+["\n            <span class=\"webhelp-toc-section2-entry\">Tables</span>\n         ","c_Tables.html#concept_6884C7A0BBBF4792B2CF765F85CFB261",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Types of tables</span>\n            ","c_Types_of_Tables.html#concept_004AF201DB18436098E65BA6670EA8CA",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Working with tables</span>\n            ","c_Working_with_Tables.html#D9212",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Column and row headers</span>\n            ","c_Row_Headers.html#concept_568DD52E5D4D4879ADD0AA7C9D02617D",null]
 ]],
-["\n            <span class=\"webhelp-toc-section1-entry\">Special characters</span>\n         ","c_Special_Characters_and_Dates.html#concept_B467B8254BA24147BAF963529F1AC78A",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Non-breaking spaces and special characters</span>\n            ","c_Non_Breaking_Spaces.html#D9202",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Dates</span>\n            ","c_Dates.html#concept_842A1B4B509945A49A119E7B7922BD3C",null]
+["\n            <span class=\"webhelp-toc-section2-entry\">Special characters</span>\n         ","c_Special_Characters_and_Dates.html#concept_B467B8254BA24147BAF963529F1AC78A",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Non-breaking spaces and special characters</span>\n            ","c_Non_Breaking_Spaces.html#D9202",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Dates</span>\n            ","c_Dates.html#concept_842A1B4B509945A49A119E7B7922BD3C",null]
 ]]
 ]],
-["\n         <span class=\"webhelp-toc-chapter-entry\">Graphics and figures</span>\n      ","c_Working_with_Graphics_and_Figures.html#concept_44C535ACF8BD4650A40F472900B49F9A",[
-["\n            <span class=\"webhelp-toc-section1-entry\">Figures and images</span>\n         ","c_Figures_or_Images.html#D2978",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Image file formats</span>\n         ","c_Image_File_Types.html#D9167",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Image file management</span>\n            ","c_Image_File_Management.html#D9336",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Different graphics for different published media</span>\n            ","c_Different_Graphics_for_Different_Outputs.html#D9345",null]
+["\n         <span class=\"webhelp-toc-section1-entry\">Graphics and figures</span>\n      ","c_Working_with_Graphics_and_Figures.html#concept_44C535ACF8BD4650A40F472900B49F9A",[
+["\n            <span class=\"webhelp-toc-section2-entry\">Figures and images</span>\n         ","c_Figures_or_Images.html#D2978",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Image file formats</span>\n         ","c_Image_File_Types.html#D9167",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Image file management</span>\n            ","c_Image_File_Management.html#D9336",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Different graphics for different published media</span>\n            ","c_Different_Graphics_for_Different_Outputs.html#D9345",null]
 ]],
-["\n            <span class=\"webhelp-toc-section1-entry\">Image alignment, placement, and sizing</span>\n         ","c_Image_Alignment_and_Placement.html#concept_141498CD15574429BC13C95911FC8B60",null]
+["\n            <span class=\"webhelp-toc-section2-entry\">Image alignment, placement, and sizing</span>\n         ","c_Image_Alignment_and_Placement.html#concept_141498CD15574429BC13C95911FC8B60",null]
 ]],
-["\n         <span class=\"webhelp-toc-chapter-entry\">Cross-referencing</span>\n      ","c_Cross-referencing.html#concept_05723D99BDA9446C95835E79454CC32B",[
-["\n            <span class=\"webhelp-toc-section1-entry\">Types of cross-references</span>\n         ","c_Types_of_CrossReferences.html#concept_0D4E2C09D8D54D17A857954732B0C79A",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">The xref element</span>\n         ","c_The_xref_Element.html#concept_1976AE4D9BD0406695EE4ECDBF53CE90",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Cross-referencing topics and external resources</span>\n         ","c_Cross-referencing_Topics_and_External_Resources.html#concept_13B5790CDDCB4467A547F8C01220CF11",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Links to non-DITA resources</span>\n            ","c_Links_to_non-DITA_Resources.html#concept_A2EED5F6282845D3BC523F71BDA21DFD",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Linking in a new window</span>\n            ","c_Scope_Attribute.html#D5135",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Indirect linking with keys</span>\n            ","c_Indirection_with_keyref.html#D9338",null]
+["\n         <span class=\"webhelp-toc-section1-entry\">Cross-referencing</span>\n      ","c_Cross-referencing.html#concept_05723D99BDA9446C95835E79454CC32B",[
+["\n            <span class=\"webhelp-toc-section2-entry\">Types of cross-references</span>\n         ","c_Types_of_CrossReferences.html#concept_0D4E2C09D8D54D17A857954732B0C79A",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">The xref element</span>\n         ","c_The_xref_Element.html#concept_1976AE4D9BD0406695EE4ECDBF53CE90",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Cross-referencing topics and external resources</span>\n         ","c_Cross-referencing_Topics_and_External_Resources.html#concept_13B5790CDDCB4467A547F8C01220CF11",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Links to non-DITA resources</span>\n            ","c_Links_to_non-DITA_Resources.html#concept_A2EED5F6282845D3BC523F71BDA21DFD",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Linking in a new window</span>\n            ","c_Scope_Attribute.html#D5135",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Indirect linking with keys</span>\n            ","c_Indirection_with_keyref.html#D9338",null]
 ]],
-["\n            <span class=\"webhelp-toc-section1-entry\">Cross-referencing elements in a topic</span>\n         ","c_Cross-referencing_Elements_in_a_Topic.html#concept_CFFB1D0AE8D04CBB96EF2A2630FCECFC",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Cross-referencing figures</span>\n            ","c_Cross_Referencing_Figures.html#D5129",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Cross-referencing tables</span>\n            ","c_Cross_Referencing_Tables.html#D5129-2",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Cross-referencing a step</span>\n            ","c_Referencing_Step_Numbers.html#D9148",null]
+["\n            <span class=\"webhelp-toc-section2-entry\">Cross-referencing elements in a topic</span>\n         ","c_Cross-referencing_Elements_in_a_Topic.html#concept_CFFB1D0AE8D04CBB96EF2A2630FCECFC",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Cross-referencing figures</span>\n            ","c_Cross_Referencing_Figures.html#D5129",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Cross-referencing tables</span>\n            ","c_Cross_Referencing_Tables.html#D5129-2",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Cross-referencing a step</span>\n            ","c_Referencing_Step_Numbers.html#D9148",null]
 ]],
-["\n            <span class=\"webhelp-toc-section1-entry\">Sample topic - cross-references</span>\n         ","c_Cross-references_Sample_Topic.html#concept_sample_xref",null]
+["\n            <span class=\"webhelp-toc-section2-entry\">Sample topic - cross-references</span>\n         ","c_Cross-references_Sample_Topic.html#concept_sample_xref",null]
 ]],
-["\n         <span class=\"webhelp-toc-chapter-entry\">Content re-use</span>\n      ","c_Content_Re-use.html#concept_FDC4B91535A64A78A123DD45D2AEECA1",[
-["\n            <span class=\"webhelp-toc-section1-entry\">The content reference (conref) attribute</span>\n         ","c_Content_Reference.html#D1987",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Variables</span>\n         ","c_Variables.html#concept_9D578ED756174EF49F8DB3F080C0E050",[
-["\n               <span class=\"webhelp-toc-section2-entry\">Variables using conref and filtering</span>\n            ","c_Variables_in_DITA.html#concept_BDCD39B6997048C9B6DD72DFF5DBADBC",null],
-["\n               <span class=\"webhelp-toc-section2-entry\">Variables using indirection</span>\n            ","c_Variables_Using_keydef.html#concept_7016766027BF414AAC785D0B409FE71E",null]
+["\n         <span class=\"webhelp-toc-section1-entry\">Content re-use</span>\n      ","c_Content_Re-use.html#concept_FDC4B91535A64A78A123DD45D2AEECA1",[
+["\n            <span class=\"webhelp-toc-section2-entry\">The content reference (conref) attribute</span>\n         ","c_Content_Reference.html#D1987",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Variables</span>\n         ","c_Variables.html#concept_9D578ED756174EF49F8DB3F080C0E050",[
+["\n               <span class=\"webhelp-toc-section3-entry\">Variables using conref and filtering</span>\n            ","c_Variables_in_DITA.html#concept_BDCD39B6997048C9B6DD72DFF5DBADBC",null],
+["\n               <span class=\"webhelp-toc-section3-entry\">Variables using indirection</span>\n            ","c_Variables_Using_keydef.html#concept_7016766027BF414AAC785D0B409FE71E",null]
 ]]
 ]],
-["\n         <span class=\"webhelp-toc-chapter-entry\">The DITA documentation process</span>\n      ","c_The_DITA_Publishing_Process.html#concept_0113DE9C06F4454D8111459C7BA2030B",[
-["\n            <span class=\"webhelp-toc-section1-entry\">Structured authoring documentation stages</span>\n         ","c_Structured_Authoring_Process.html#D1734",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Unit testing in a team</span>\n         ","c_Working_in_a_Team.html#D5123",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">The DITA publishing process</span>\n         ","c_DITA_Publishing_Process.html#D9120",null],
-["\n            <span class=\"webhelp-toc-section1-entry\">Content Management Systems</span>\n         ","c_Content_Management_Systems.html#concept_888615C9ABDC4B7B9EEB8024675FF79E",null]
+["\n         <span class=\"webhelp-toc-section1-entry\">The DITA documentation process</span>\n      ","c_The_DITA_Publishing_Process.html#concept_0113DE9C06F4454D8111459C7BA2030B",[
+["\n            <span class=\"webhelp-toc-section2-entry\">Structured authoring documentation stages</span>\n         ","c_Structured_Authoring_Process.html#D1734",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">The DITA publishing process</span>\n         ","c_DITA_Publishing_Process.html#D9120",null],
+["\n            <span class=\"webhelp-toc-section2-entry\">Content Management Systems</span>\n         ","c_Content_Management_Systems.html#concept_888615C9ABDC4B7B9EEB8024675FF79E",null]
 ]]];
 var toc_initiallyCollapsed = false;
  
@@ -959,7 +958,7 @@ message = translation[index];
 } 
 return message; 
 } 
-var storageId = "bw7fnmtxuo63-1w9mum8suqieg";
+var storageId = "lw2txk3kfu0d-1kisda8dvwjbq";
 function storageSet(key, value) { 
 window.sessionStorage.setItem(key + storageId, String(value)); 
 } 
