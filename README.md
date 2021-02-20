@@ -12,3 +12,4 @@ The following table describes each file in this repository. Click on the hyperli
 |------------|-------------|
 |[DITA Workshop Presentation](DITA_Workshop.pdf)| The presentation used during the DITA workshop (in PDF file format).
 |[DITA Workshop Webhelp](DITA_Workshop_WebHelp.zip)| Archive of the Webhelp used during the workshop.
+|[Sample Files](Sample files.zip)| Sample files for practice.
