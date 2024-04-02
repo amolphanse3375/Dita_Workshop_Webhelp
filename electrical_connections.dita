@@ -5,13 +5,13 @@
     <shortdesc></shortdesc>
     <taskbody>
         <context>
-            <p>Perform the following instructions to setup the electrical connections for peripheral
-                devices attaching to the <ph keyref="computer_name"/> computer.</p>
+            <p>Perform the following instructions to set up the electrical connections for
+                peripheral devices attaching to the <ph keyref="computer_name"/> computer.</p>
         </context>
         <steps>
             <step>
                 <cmd>Turn the <ph keyref="computer_name"/> so that it faces away from you. Locate
-                    the port Door (1400083 ); it's at the right end of the rear panel.</cmd>
+                    the port Door (1400083); it's at the right end of the rear panel.</cmd>
             </step>
             <step>
                 <cmd>To remove the Door, raise it up and slide it to the right—then lift it up and
