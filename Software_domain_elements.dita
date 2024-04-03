@@ -10,11 +10,15 @@
                 <dlentry>
                     <dt>msgph</dt>
                     <dd>Similar to codeph. A server log entry of <msgph>I:0</msgph>is equivalent to
-                        the text message Information: Successful.</dd>
+                        the text message <msgph>Information: Successful</msgph>.</dd>
                 </dlentry>
                 <dlentry>
                     <dt>msgblock</dt>
-                    <dd/>
+                    <dd>Similar to codeblock. The following are the server block entry codes.
+                        <msgblock id="msgblock_sgv_sr4_y1c">I:0
+I:1
+P:0
+P:1</msgblock></dd>
                 </dlentry>
                 <dlentry>
                     <dt>msgnum</dt>
