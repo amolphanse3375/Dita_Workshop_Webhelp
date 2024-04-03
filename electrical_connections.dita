@@ -2,7 +2,7 @@
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="electrical_connections">
     <title>Electrical Connections</title>
-    <shortdesc></shortdesc>
+    <shortdesc/>
     <taskbody>
         <context>
             <p>Perform the following instructions to set up the electrical connections for
@@ -11,7 +11,8 @@
         <steps>
             <step>
                 <cmd>Turn the <ph keyref="computer_name"/> so that it faces away from you. Locate
-                    the port Door (1400083); it's at the right end of the rear panel.</cmd>
+                    the port Door (<xref href="parts_list.dita">1400083</xref>); it's at the right
+                    end of the rear panel.</cmd>
             </step>
             <step>
                 <cmd>To remove the Door, raise it up and slide it to the right—then lift it up and
@@ -19,11 +20,12 @@
             </step>
             <step>
                 <cmd>Place the <ph keyref="computer_name"/> and <ph keyref="peripheral_name"/> Hoods
-                    (1400217 and 1400214 ) on the Ribbon Cable Connectors as shown in Figure 4. The
-                    Hoods replace the Door on the <ph keyref="computer_name"/> and fill the opening
-                    on the <ph keyref="peripheral_name"/>. These Hoods are designed so that it is
-                    not possible to insert the connectors upside down. They function as keyways for
-                    the connectors.</cmd>
+                        (<xref href="parts_list.dita#parts_list/entry_og5_jfn_y1c">1400217</xref>
+                    and 1400214 ) on the Ribbon Cable Connectors as shown in Figure 4. The Hoods
+                    replace the Door on the <ph keyref="computer_name"/> and fill the opening on the
+                        <ph keyref="peripheral_name"/>. These Hoods are designed so that it is not
+                    possible to insert the connectors upside down. They function as keyways for the
+                    connectors.</cmd>
             </step>
             <step>
                 <cmd>Now connect the Ribbon Cable between the left front <ph
