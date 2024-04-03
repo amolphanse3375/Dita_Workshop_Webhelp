@@ -1,9 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_tlg_mq4_y1c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Software domain elements</title>
+    <shortdesc>The software domain elements are designed for documenting the operation of a software
+        program.</shortdesc>
     <conbody>
-        <p></p>
+        <p>
+            <dl id="dl_cvh_qq4_y1c">
+                <dlentry>
+                    <dt>msgph</dt>
+                    <dd>Similar to codeph. A server log entry of <msgph>I:0</msgph>is equivalent to
+                        the text message Information: Successful.</dd>
+                </dlentry>
+                <dlentry>
+                    <dt>msgblock</dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt>msgnum</dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt>cmdname</dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt>varname</dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt>filepath</dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt>userinput</dt>
+                    <dd/>
+                </dlentry>
+                <dlentry>
+                    <dt>systemoutput</dt>
+                    <dd/>
+                </dlentry>
+            </dl>
+        </p>
     </conbody>
 </concept>
