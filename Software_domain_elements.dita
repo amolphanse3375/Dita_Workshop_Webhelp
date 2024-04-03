@@ -22,15 +22,20 @@ P:1</msgblock></dd>
                 </dlentry>
                 <dlentry>
                     <dt>msgnum</dt>
-                    <dd/>
+                    <dd>Message number produced by an application or program. A server log entry of
+                            <msgnum>I:0</msgnum> is equivalent to the text message
+                            <msgph>Information: Successful</msgph></dd>
                 </dlentry>
                 <dlentry>
                     <dt>cmdname</dt>
-                    <dd/>
+                    <dd>Use the <cmdname>dir</cmdname> to list all the files and folders in the
+                        selected directory.</dd>
                 </dlentry>
                 <dlentry>
                     <dt>varname</dt>
-                    <dd/>
+                    <dd>Variable name. Use the <cmdname>dir</cmdname>
+                        <varname>/p</varname> to pause at the end of each page. You need to press a
+                        key to see the rest of the information.</dd>
                 </dlentry>
                 <dlentry>
                     <dt>filepath</dt>
