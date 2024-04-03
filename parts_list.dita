@@ -51,7 +51,7 @@
                         <entry conref="#parts_list/entry_sgx_hdl_v1c"/>
                     </row>
                     <row>
-                        <entry>Hood,  <ph keyref="computer_name"/> Microcomputer System</entry>
+                        <entry>Hood, <ph keyref="computer_name"/> Microcomputer System</entry>
                         <entry>1400214</entry>
                     </row>
                 </tbody>
@@ -71,11 +71,11 @@
                 <tbody>
                     <row>
                         <entry>Door</entry>
-                        <entry>1400083</entry>
+                        <entry id="entry_og5_jfn_y1c">1400083</entry>
                     </row>
                     <row>
                         <entry>Hood</entry>
-                        <entry>1400217</entry>
+                        <entry id="entry_zgf_kfn_y1c">1400217</entry>
                     </row>
                 </tbody>
             </tgroup>
