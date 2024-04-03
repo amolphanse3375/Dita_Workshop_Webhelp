@@ -39,11 +39,12 @@ P:1</msgblock></dd>
                 </dlentry>
                 <dlentry>
                     <dt>filepath</dt>
-                    <dd/>
+                    <dd>The server log is saved in the <filepath>log.txt</filepath> file. </dd>
                 </dlentry>
                 <dlentry>
                     <dt>userinput</dt>
-                    <dd/>
+                    <dd>Text input by a user. After you type <userinput>cd..</userinput> enter
+                            <cmdname>dir</cmdname> at the next prompt.</dd>
                 </dlentry>
                 <dlentry>
                     <dt>systemoutput</dt>
