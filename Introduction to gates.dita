@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="concept_jjn_n3c_z1c">
-    <title></title>
-    <shortdesc></shortdesc>
+    <title>Introduction to Gates</title>
+    <shortdesc>This topic lists the important types of gates</shortdesc>
     <conbody>
-        <p></p>
+        <p>The following are the types of gates:<ul id="ul_oyk_s3c_z1c">
+                <li>Basic Gates<ul id="ul_zql_v3c_z1c">
+                        <li>AND Gate</li>
+                        <li>OR Gate</li>
+                        <li>NOT Gate</li>
+                    </ul></li>
+                <li>Universal Gates</li>
+            </ul></p>
     </conbody>
 </concept>
